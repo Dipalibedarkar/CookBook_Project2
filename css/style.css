@@ -1,0 +1,101 @@
+/**************************** CSS Style for whole Page *******************/
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/************************** Arian CSS *************************/
+/* section-footer */
+
+.section-footer{
+  
+  background-color: #feffde;
+  background-image: url("https://cdn.pixabay.com/photo/2014/06/11/17/00/food-366875_960_720.jpg")
+}
+.footer-title {
+  color: #feffde !important;
+}
+
+.main-card {
+  border: 0;
+}
+
+.footer-cards a{
+  padding-left: 0;
+  color: #feffde
+}
+
+/************************** Dipali CSS ************************/
+
+#receipe {
+  background: rgb(7, 5, 42);
+  background: linear-gradient(
+    297deg,
+    rgba(7, 5, 42, 1) 0%,
+    rgba(8, 8, 23, 1) 35%,
+    rgba(58, 115, 126, 1) 100%
+  );
+}
+
+.card-body h5,
+p {
+  color: #2b2b28;
+}
+.jumbotron-fluid {
+  text-align: center;
+}
+video {
+  
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 2%;
+  border: black
+  border-block-end-width: 2%;
+  
+}
+/***h2 {
+  text-align: center;
+}***/
+
+.card-img p,
+ h2 {
+  text-align: center;
+}
+card-img {
+  text-align: center;
+}
+ul,
+h6 {
+  color: white;
+}
+
+#weightloss img{
+  text-align: center:
+}
+
+#header{
+
+  background-image: url("https://cdn.pixabay.com/photo/2017/04/06/14/00/spaghetti-2208343_960_720.jpg")
+  /***background: linear-gradient(
+    297deg,
+    rgba(7, 5, 42, 1) 0%,
+    rgba(8, 8, 23, 1) 35%,
+    rgba(58, 115, 126, 1) 100%
+    background: image()
+  );***/
+}
+
+p:hover,h1:hover, h2:hover, a:hover, p:hover {
+  background-color: rgb(198, 252, 240);
+}
+#kidsfood img{
+ align-self: center;
+  padding: 1% 1%;
+  margin: 1.5%;
+}
+ 
+/************************** Ehsan CSS *************************/
+
+#header .container-fluid {
+  padding: 0% 3% 3%;
+}

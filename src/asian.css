@@ -1,0 +1,23 @@
+/**************************** CSS Style for whole Page *******************/
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/************************** Arian CSS *************************/
+/* section-footer */
+
+.section-footer {
+  background-color: #feffde;
+}
+
+.main-card {
+  border: 0;
+}
+
+.footer-cards a {
+  padding-left: 0;
+}
+
+/************************** Dipali CSS ************************/
+
+/************************** Ehsan CSS *************************/
